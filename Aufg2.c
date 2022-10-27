@@ -27,7 +27,7 @@ int main() {
 
     printf("\n");
 
-    pascalsTriangle(16); // 35 Zeilen.
+    pascalsTriangle(16); // 16 Zeilen.
 }
 
 // Fakultätsfunktion.
